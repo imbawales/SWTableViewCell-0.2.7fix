@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'SWTableViewCell'
-  s.version  = '0.2.7'
+  s.version  = '0.2.7fix'
   s.author   = { 'Wales' => '315741351@qq.com' }
   s.homepage = 'https://github.com/imbawales/SWTableViewCell-0.2.7fix.git'
   s.summary  = 'Base on SWTableViewCell 0.2.7.'
